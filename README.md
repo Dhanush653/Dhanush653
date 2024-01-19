@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhanush653
 - 👀 I’m a Computer Science Student
-- 🌱 I’m currently persuing my collage
+- 🌱 I’m currently persuing my 4th year B.Tech
 
 <!---
 Dhanush653/Dhanush653 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
