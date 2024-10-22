@@ -3,73 +3,100 @@
 <h1 align="center">Hi 👋, I'm Dhanush Kumar</h1>
 <h4 align="center">A passionate Full-Stack Developer specializing in high-performance web applications. With expertise in Spring Boot, React, Angular, and MySQL, I deliver innovative, scalable, and user-focused solutions. I thrive on collaboration and love staying at the forefront of technology. My goal? To make a meaningful impact with cutting-edge projects and continuous professional growth.</h4>
 
-<h3 align="center">🚀 Skills:</h3>
-<p align="center">
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="SpringBoot" width="40" height="40"/>
-  </a>
-  <h5>SpringBoot</h5>
+<h3>🚀 Skills:</h3>
+<ol>
+  <li>
+    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="SpringBoot" width="20" height="20" style="vertical-align:middle;"/>
+      SpringBoot
+    </a>
+  </li>
   
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJs" width="40" height="40"/>
-  </a>
-  <h5>ReactJs</h5>
+  <li>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJs" width="20" height="20" style="vertical-align:middle;"/>
+      ReactJs
+    </a>
+  </li>
 
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" width="40" height="40"/>
-  </a>
-  <h5>FastAPI</h5>
+  <li>
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" width="20" height="20" style="vertical-align:middle;"/>
+      FastAPI
+    </a>
+  </li>
 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <h5>MySQL</h5>
+  <li>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="20" height="20" style="vertical-align:middle;"/>
+      MySQL
+    </a>
+  </li>
 
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/>
-  </a>
-  <h5>MariaDB</h5>
+  <li>
+    <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="20" height="20" style="vertical-align:middle;"/>
+      MariaDB
+    </a>
+  </li>
 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <h5>Docker</h5>
+  <li>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="20" height="20" style="vertical-align:middle;"/>
+      Docker
+    </a>
+  </li>
 
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <h5>Java</h5>
+  <li>
+    <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" height="20" style="vertical-align:middle;"/>
+      Java
+    </a>
+  </li>
 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <h5>Python</h5>
+  <li>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20" style="vertical-align:middle;"/>
+      Python
+    </a>
+  </li>
 
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
-  <h5>C#</h5>
+  <li>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="20" height="20" style="vertical-align:middle;"/>
+      C#
+    </a>
+  </li>
 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <h5>C++</h5>
+  <li>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20" height="20" style="vertical-align:middle;"/>
+      C++
+    </a>
+  </li>
 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <h5>C</h5>
+  <li>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="20" height="20" style="vertical-align:middle;"/>
+      C
+    </a>
+  </li>
 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  </a>
-  <h5>HTML</h5>
+  <li>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="20" height="20" style="vertical-align:middle;"/>
+      HTML
+    </a>
+  </li>
 
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  </a>
-  <h5>CSS</h5>
-</p>
+  <li>
+    <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="20" height="20" style="vertical-align:middle;"/>
+      CSS
+    </a>
+  </li>
+</ol>
+
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
