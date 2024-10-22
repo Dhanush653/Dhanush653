@@ -1,6 +1,6 @@
 [![MasterHead](https://t3.ftcdn.net/jpg/01/94/01/00/360_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Dhanush Kumar</h1>
+<h1 align="center">Hi <img src="https://cliply.co/wp-content/uploads/2021/08/372108300_WAVING_HAND_400px.gif" alt="Hi Hand" width="40px"/> , I'm Dhanush Kumar</h1>
 <h4 align="center">A passionate Full-Stack Developer specializing in high-performance web applications. With expertise in Spring Boot, React, Angular, and MySQL, I deliver innovative, scalable, and user-focused solutions. I thrive on collaboration and love staying at the forefront of technology. My goal? To make a meaningful impact with cutting-edge projects and continuous professional growth.</h4>
 
 <h3>🚀 Skills:</h3>
